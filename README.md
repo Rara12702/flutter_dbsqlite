@@ -6,3 +6,4 @@ NIM: 2041720110
 ![tampilan awal](sreenshoot/1.png)
 ## 2. Menginput data
 ![menambahkan data](sreenshoot/2.png)
+## 3.
