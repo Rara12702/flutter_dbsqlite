@@ -1,9 +1,13 @@
 # flutter_sqlite
 NAMA: Rara Deninda Hurianto <BR>
 KELAS: TI 3C <BR>
-NIM: 2041720110
+NIM: 2041720110 <BR>
 ## 1. Tampilan awal
-![tampilan awal](sreenshoot/1.png)
+<img src="screenshoot/1.png" alt="drawing" width="300"/>
+<br/>
+<br/>
+
 ## 2. Menginput data
-![menambahkan data](sreenshoot/2.png)
-## 3.
+<img src="screenshoot/2.png" alt="drawing" width="300"/>
+<br/>
+<br/>
