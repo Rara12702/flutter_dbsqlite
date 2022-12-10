@@ -7,7 +7,27 @@ NIM: 2041720110 <BR>
 <br/>
 <br/>
 
-## 2. Menginput data
+## 2. Menambah data
 <img src="screenshoot/2.png" alt="drawing" width="300"/>
+<br/>
+<br/>
+
+## 3. Data berhasil ditambahkan
+<img src="screenshoot/3.png" alt="drawing" width="300"/>
+<br/>
+<br/>
+
+## 4. Mengedit data
+<img src="screenshoot/4.png" alt="drawing" width="300"/>
+<br/>
+<br/>
+
+## 5. Data berhasil di update
+<img src="screenshoot/5.png" alt="drawing" width="300"/>
+<br/>
+<br/>
+
+## 6. Menghapus data
+<img src="screenshoot/6.png" alt="drawing" width="300"/>
 <br/>
 <br/>
