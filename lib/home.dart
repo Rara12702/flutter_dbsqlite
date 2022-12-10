@@ -94,6 +94,7 @@ class HomeState extends State<Home> {
                 Text("" + itemList[index].kodeBarang.toString()),
               ],
             ),
+            // 3.TODO : delete by id
             trailing: GestureDetector(
               child: const Icon(Icons.delete),
               onTap: () async {
@@ -101,6 +102,7 @@ class HomeState extends State<Home> {
                 updateListView();
               },
             ),
+            //4. TODO: update by id
             onTap: () async {
               var item = await navigateToEntryForm(context, itemList[index]);
               dbHelper.update(item);
